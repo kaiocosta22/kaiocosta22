@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kaiocosta22
-- 👀 I’m interested in Music and games, also learning.
+- 👀 I’m interested in Music and games also learning.
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on front-end
 - 📫 How to reach me whatsapp or linkedin
